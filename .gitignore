@@ -1,0 +1,8 @@
+.my_database.my_database
+.alembic.ini
+.pytest.ini
+/venv
+/alembic
+/vscode
+/pytest_cache
+/app.__pycache__
